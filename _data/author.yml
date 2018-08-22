@@ -63,6 +63,9 @@ programmingSkills:
 - CPP:
   name: Adobe Photoshop
   percentage: 80%
+- CAD:
+  name: CAD
+  percentage: 60%
 - PHP:
   name: C4D
   percentage: 40%
