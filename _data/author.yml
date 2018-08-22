@@ -55,16 +55,16 @@ languages:
   proficiency: Limit
 programmingSkills:
 - Java:
-  name: Java/Android
-  percentage: 90%
+  name: VB.NET 
+  percentage: 40%
 - Bash:
-  name: Bash Shell
-  percentage: 90%
+  name: Adobe Illustrator 
+  percentage: 80%
 - CPP:
-  name: C/C++
+  name: Adobe Photoshop
   percentage: 80%
 - PHP:
-  name: PHP
+  name: C4D
   percentage: 30%
 - Python:
   name: Python
