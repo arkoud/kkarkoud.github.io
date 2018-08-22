@@ -49,10 +49,10 @@ educationHistory:
 languages:
 - language1:
   name: 中文
-  proficiency: Native
+  proficiency: 80分#Native
 - language2:
   name: English
-  proficiency: Limit
+  proficiency: 50分#Limit
 programmingSkills:
 - Java:
   name: VB.NET 
